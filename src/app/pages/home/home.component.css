@@ -1,0 +1,25 @@
+
+
+
+
+main{
+    min-height: 100vh;
+    background-color: rgb(245, 238, 238);
+}
+
+
+.como-doar article{
+    width: 300px;
+}
+
+
+.projetos article{
+    width: 400px;
+}
+
+@media (min-width: 800px){
+    .carousel-inner{
+        height: 600px;
+    }
+}
+
