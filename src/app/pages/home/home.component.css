@@ -9,12 +9,17 @@ main{
 
 
 .como-doar article{
-    width: 300px;
+    width: 400px;
 }
 
 
 .projetos article{
     width: 400px;
+}
+
+.projetos article, .como-doar article{
+    background-color: white;
+    border-radius: 10px;
 }
 
 @media (min-width: 800px){
