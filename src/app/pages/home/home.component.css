@@ -17,6 +17,10 @@ main{
     width: 400px;
 }
 
+.projetos article img{
+    height: 230px;
+}
+
 .projetos article, .como-doar article{
     background-color: white;
     border-radius: 10px;
